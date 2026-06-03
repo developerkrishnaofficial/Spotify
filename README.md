@@ -87,5 +87,4 @@ This project demonstrates:
 - Music playback controls
 - User authentication
 - Dynamic playlists and albums
-- Mobile-first responsive improvements
-
+- Mobile-first responsive improvement
