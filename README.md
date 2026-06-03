@@ -89,6 +89,3 @@ This project demonstrates:
 - Dynamic playlists and albums
 - Mobile-first responsive improvements
 
-## Author
-
-Created as a front-end practice project inspired by Spotify Web Player.
